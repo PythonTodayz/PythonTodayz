@@ -20,8 +20,8 @@
 
   <br>
 
-  <a href="https://t.me/CodeAddy">
-    <img src="https://img.shields.io/badge/𝖢𝗈𝖽𝖾_𝕩_𝖠𝖽𝖽𝗒-Join_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Code X Addy"/>
+  <a href="https://t.me/PythonTodayz">
+    <img src="https://img.shields.io/badge/𝖯𝗒𝗍𝗁𝗈𝗇 𝕩 𝖳𝗈𝖽𝖺𝗒-Join_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="PythonTodayz"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/dojutso">
