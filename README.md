@@ -10,33 +10,38 @@
 
   <br>
 
-  <p align="center" style="font-size: 16px;">
+  <p align="center" style="font-size: 16px; letter-spacing: 0.5px;">
     <b>
-    ʜᴇʟʟᴏ! ɪ ᴀᴍ ᴀ ᴘᴀssɪᴏɴᴀᴛᴇ ᴘʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ.<br>
-    ɪ ᴇɴᴊᴏʏ ʙᴜɪʟᴅɪɴɢ ɴᴇᴡ ᴛʜɪɴɢs ᴀɴᴅ ɪ ᴀᴍ ᴄᴏɴsᴛᴀɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ <br>
-    ɴᴇᴡ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇs ᴛᴏ ᴜᴘɢʀᴀᴅᴇ ᴍʏ sᴋɪʟʟs ᴡɪᴛʜ ᴛɪᴍᴇ.
+    ᴘʀᴏғᴇssɪᴏɴᴀʟ ᴘʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ sᴘᴇᴄɪᴀʟɪᴢɪɴɢ ɪɴ sᴄᴀʟᴀʙʟᴇ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴs<br>
+    ᴀɴᴅ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ sᴏʟᴜᴛɪᴏɴs. ᴄᴏɴᴛɪɴᴜᴏᴜsʟʏ ᴇᴠᴏʟᴠɪɴɢ ᴛʜʀᴏᴜɢʜ<br>
+    ʟᴀᴛᴇsᴛ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇs ᴀɴᴅ ʙᴇsᴛ ᴘʀᴀᴄᴛɪᴄᴇs.
     </b>
   </p>
 
   <br>
 
-  <a href="https://t.me/PythonTodayz">
-    <img src="https://img.shields.io/badge/𝖯𝗒𝗍𝗁𝗈𝗇 𝕩 𝖳𝗈𝖽𝖺𝗒-Join_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="PythonTodayz"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/dojutso">
-    <img src="https://img.shields.io/badge/Dojutso-My_World-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Dojutso"/>
-  </a>
+  <div align="center">
+    <a href="https://t.me/PythonTodayz">
+      <img src="https://img.shields.io/badge/ᴘʏᴛʜᴏɴ_ᴛᴏᴅᴀʏᴢ-ᴊᴏɪɴ_ᴄʜᴀɴɴᴇʟ-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="PythonTodayz"/>
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://t.me/dojutso">
+      <img src="https://img.shields.io/badge/ᴅᴏᴊᴜᴛsᴏ-ᴍʏ_ᴡᴏʀʟᴅ-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Dojutso"/>
+    </a>
+  </div>
 
   <br><br>
 
-  <h3>🛠️ ᴛᴇᴄʜ sᴛᴀᴄᴋ</h3>
-  <img src="https://skillicons.dev/icons?i=python,vscode,git,github,linux,bash,docker,md&theme=dark" />
+  <h3>🛠️ ᴛᴇᴄʜɴᴏʟᴏɢʏ sᴛᴀᴄᴋ</h3>
+  <img src="https://skillicons.dev/icons?i=python,vscode,git,github,linux,bash,docker,md,flask,django,postgresql,mongodb,redis,aws,nginx&theme=dark" />
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=PythonTodayz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=PythonTodayz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_title=true&count_private=true" height="165" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonTodayz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_title=true" height="165" alt="languages graph" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PythonTodayz&theme=tokyonight&hide_border=true&background=0d1117" height="165" alt="streak stats" />
+  </div>
 
   <br><br>
 
@@ -44,8 +49,8 @@
 
   <br>
   
-  <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=PythonTodayz&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-  </p>
+  <div align="right">
+    <img src="https://komarev.com/ghpvc/?username=PythonTodayz&label=ᴘʀᴏғɪʟᴇ%20ᴠɪᴇᴡs&color=blue&style=flat" alt="Profile Views" />
+  </div>
 
 </div>
