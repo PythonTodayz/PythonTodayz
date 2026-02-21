@@ -1,12 +1,10 @@
-
-
 <div align="center">
 
   <img src="1B697216-4D54-43A0-ABD7-6E61D5038F10.gif" width="100%" style="border-radius: 25px; box-shadow: 0px 0px 70px rgba(99,102,241,0.8);">
 
   <br><br>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:4f46e5&height=200&section=header&text=Python%20x%20Today&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:4f46e5&height=200&section=header&text=──「𝖯𝗒𝗍𝗁𝗈𝗇 𝕩 𝖳𝗈𝖽𝖺𝗒」──&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
   <br>
 
