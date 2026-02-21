@@ -4,21 +4,21 @@
 
   <br><br>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:4f46e5&height=200&section=header&text=PYTHON%20DEVELOPER&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:4f46e5&height=200&section=header&text=──「𝖯𝗒𝗍𝗁𝗈𝗇20𝕩%20𝖳𝗈𝖽𝖺𝗒」──&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
   <br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=30&duration=2600&pause=900&color=E0E7FF&center=true&vCenter=true&width=620&lines=Always+learning+and+evolving;Designing+clean+and+scalable+systems;Automation+driven+development;Code+X+Addy" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=30&duration=2600&pause=900&color=E0E7FF&center=true&vCenter=true&width=620&lines=PYTHON+DEVELOPER;SCALABLE+SYSTEMS;AUTOMATION+EXPERT;CODE+X+ADDY" />
   </a>
 
   <br><br>
 
-  <p align="center" style="font-size: 17px; letter-spacing: 0.7px; line-height: 2; color:#dbeafe; font-style: italic;">
+  <p align="center" style="font-size: 17px; letter-spacing: 1px; line-height: 2; color:#dbeafe;">
     <b>
-    professional python developer<br>
-    building scalable applications and automation systems<br>
-    focused on clean architecture and modern technology
+    ᴘʀᴏғᴇssɪᴏɴᴀʟ ᴘʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ<br>
+    ʙᴜɪʟᴅɪɴɢ sᴄᴀʟᴀʙʟᴇ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴs ᴀɴᴅ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ sʏsᴛᴇᴍs<br>
+    ғᴏᴄᴜsᴇᴅ ᴏɴ ᴄʟᴇᴀɴ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ ᴀɴᴅ ᴍᴏᴅᴇʀɴ ᴛᴇᴄʜɴᴏʟᴏɢʏ
     </b>
   </p>
 
@@ -26,7 +26,7 @@
 
   <div align="center">
     <a href="https://t.me/PythonTodayz">
-      <img src="https://img.shields.io/badge/Join%20Channel-1e293b?style=for-the-badge&logoColor=white&labelColor=4f46e5&color=4f46e5" />
+      <img src="https://img.shields.io/badge/Join%20Channel-1e293b?style=for-the-badge&labelColor=4f46e5&color=4f46e5" />
     </a>
     &nbsp;&nbsp;
     <a href="https://t.me/dojutso">
@@ -40,7 +40,7 @@
 
   <br>
 
-  <h3 style="color:#c7d2fe; font-family:'Playfair Display',serif; font-style: italic;">code universe</h3>
+  <h3 style="color:#c7d2fe; letter-spacing:1px;">ᴄᴏᴅᴇ ᴜɴɪᴠᴇʀꜱᴇ</h3>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PythonTodayz&theme=tokyonight" width="90%"/>
 
