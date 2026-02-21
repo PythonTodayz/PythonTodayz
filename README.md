@@ -4,7 +4,7 @@
 
   <br><br>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:4f46e5&height=200&section=header&text=PYTHON%20DEVELOPER&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:4f46e5&height=200&section=header&text=──「𝖯𝗒𝗍𝗁𝗈𝗇 𝕩 𝖳𝗈𝖽𝖺𝗒」──&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
   <br>
 
