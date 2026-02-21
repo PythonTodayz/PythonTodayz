@@ -1,15 +1,15 @@
 <div align="center">
 
-  <img src="0640E137-7BDB-4329-AB1E-E4CECFACC87E.gif" width="100%" style="border-radius: 25px; box-shadow: 0px 0px 70px rgba(99,102,241,0.8);">
+  <img src="1B697216-4D54-43A0-ABD7-6E61D5038F10.gif" width="100%" style="border-radius: 25px; box-shadow: 0px 0px 70px rgba(99,102,241,0.8);">
 
   <br><br>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:4f46e5&height=200&section=header&text=──「𝖯𝗒𝗍𝗁𝗈𝗇20𝕩%20𝖳𝗈𝖽𝖺𝗒」──&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:4f46e5&height=200&section=header&text=──「𝖯𝗒𝗍𝗁𝗈𝗇𝕩%20𝖳𝗈𝖽𝖺𝗒」──&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
   <br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=30&duration=2600&pause=900&color=E0E7FF&center=true&vCenter=true&width=620&lines=PYTHON+DEVELOPER;SCALABLE+SYSTEMS;AUTOMATION+EXPERT;CODE+X+ADDY" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=30&duration=2600&pause=900&color=E0E7FF&center=true&vCenter=true&width=620&lines=PYTHON+DEVELOPER;SCALABLE+SYSTEMS;AUTOMATION+EXPERT;PYTHON+TODAY" />
   </a>
 
   <br><br>
