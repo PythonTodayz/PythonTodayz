@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="0640E137-7BDB-4329-AB1E-E4CECFACC87E.gif" width="100%" style="border-radius: 25px; box-shadow: 0px 0px 70px rgba(99,102,241,0.8);">
+  <img src="1B697216-4D54-43A0-ABD7-6E61D5038F10.gif" width="100%" style="border-radius: 25px; box-shadow: 0px 0px 70px rgba(99,102,241,0.8);">
 
   <br><br>
 
