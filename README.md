@@ -1,20 +1,24 @@
 <div align="center">
 
-  <img src="https://i.ibb.co/8g0TrJmG/file-3203.jpg" width="100%" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(0,0,0,0.5);">
-  
+  <img src="0640E137-7BDB-4329-AB1E-E4CECFACC87E.gif" width="100%" style="border-radius: 25px; box-shadow: 0px 0px 70px rgba(99,102,241,0.8);">
+
   <br><br>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=35&duration=3000&pause=1000&color=B6C3FF&center=true&vCenter=true&width=435&lines=PYTHON+DEVELOPER;ALWAYS+LEARNING;CODE+X+ADDY" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:4f46e5&height=200&section=header&text=PYTHON%20DEVELOPER&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
   <br>
 
-  <p align="center" style="font-size: 16px; letter-spacing: 0.5px;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=30&duration=2600&pause=900&color=E0E7FF&center=true&vCenter=true&width=620&lines=Always+learning+and+evolving;Designing+clean+and+scalable+systems;Automation+driven+development;Code+X+Addy" />
+  </a>
+
+  <br><br>
+
+  <p align="center" style="font-size: 17px; letter-spacing: 0.7px; line-height: 2; color:#dbeafe; font-style: italic;">
     <b>
-    ᴘʀᴏғᴇssɪᴏɴᴀʟ ᴘʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ sᴘᴇᴄɪᴀʟɪᴢɪɴɢ ɪɴ sᴄᴀʟᴀʙʟᴇ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴs<br>
-    ᴀɴᴅ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ sᴏʟᴜᴛɪᴏɴs. ᴄᴏɴᴛɪɴᴜᴏᴜsʟʏ ᴇᴠᴏʟᴠɪɴɢ ᴛʜʀᴏᴜɢʜ<br>
-    ʟᴀᴛᴇsᴛ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇs ᴀɴᴅ ʙᴇsᴛ ᴘʀᴀᴄᴛɪᴄᴇs.
+    professional python developer<br>
+    building scalable applications and automation systems<br>
+    focused on clean architecture and modern technology
     </b>
   </p>
 
@@ -22,35 +26,36 @@
 
   <div align="center">
     <a href="https://t.me/PythonTodayz">
-      <img src="https://img.shields.io/badge/ᴘʏᴛʜᴏɴ_ᴛᴏᴅᴀʏᴢ-ᴊᴏɪɴ_ᴄʜᴀɴɴᴇʟ-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="PythonTodayz"/>
+      <img src="https://img.shields.io/badge/Join%20Channel-1e293b?style=for-the-badge&logoColor=white&labelColor=4f46e5&color=4f46e5" />
     </a>
     &nbsp;&nbsp;
     <a href="https://t.me/dojutso">
-      <img src="https://img.shields.io/badge/ᴅᴏᴊᴜᴛsᴏ-ᴍʏ_ᴡᴏʀʟᴅ-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Dojutso"/>
+      <img src="https://img.shields.io/badge/Contact-0f172a?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=0ea5e9&color=0ea5e9" />
     </a>
   </div>
 
   <br><br>
 
-  <h3>🛠️ ᴛᴇᴄʜɴᴏʟᴏɢʏ sᴛᴀᴄᴋ</h3>
-  <img src="https://skillicons.dev/icons?i=python,vscode,git,github,linux,bash,docker,md,flask,django,postgresql,mongodb,redis,aws,nginx&theme=dark" />
-
-  <br><br>
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=PythonTodayz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_title=true&count_private=true" height="165" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PythonTodayz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_title=true" height="165" alt="languages graph" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PythonTodayz&theme=tokyonight&hide_border=true&background=0d1117" height="165" alt="streak stats" />
-  </div>
-
-  <br><br>
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4f46e5,100:020617&height=4"/>
 
   <br>
-  
-  <div align="right">
-    <img src="https://komarev.com/ghpvc/?username=PythonTodayz&label=ᴘʀᴏғɪʟᴇ%20ᴠɪᴇᴡs&color=blue&style=flat" alt="Profile Views" />
-  </div>
+
+  <h3 style="color:#c7d2fe; font-family:'Playfair Display',serif; font-style: italic;">code universe</h3>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PythonTodayz&theme=tokyonight" width="90%"/>
+
+  <br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PythonTodayz&theme=tokyonight" width="44%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PythonTodayz&theme=tokyonight" width="44%"/>
+
+  <br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PythonTodayz&theme=tokyonight" width="44%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PythonTodayz&theme=tokyonight&utcOffset=5.5" width="44%"/>
+
+  <br><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:020617&height=160&section=footer"/>
 
 </div>
